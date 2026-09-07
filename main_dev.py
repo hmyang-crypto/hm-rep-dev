@@ -14,7 +14,7 @@ from functools import partial
 
 # 💡 테스트 전용 GitHub Raw 주소
 UPDATE_CHECK_URL = "https://raw.githubusercontent.com/hmyang-crypto/hm-rep/refs/heads/main/version_dev.txt"
-UPDATE_CODE_URL = "https://raw.githubusercontent.com/hmyang-crypto/hm-rep/refs/heads/main/main_dev.py"
+UPDATE_CODE_URL = "https://raw.githubusercontent.com/hmyang-crypto/hm-rep-dev/refs/heads/main/main_dev.py"
 CURRENT_VERSION = "2.1.0"
 
 
